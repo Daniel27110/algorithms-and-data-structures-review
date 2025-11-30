@@ -36,3 +36,6 @@
 /Chapter 1/output/
 /Chapter 2/output/
 /Chapter 3/output/
+
+# vscode settings
+.vscode/
